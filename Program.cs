@@ -57,6 +57,8 @@ namespace Task3
             }
             Console.WriteLine();
             Console.WriteLine($"Ответ: х = {x}");
+
+            Console.ReadKey();
         }
     }
 }
